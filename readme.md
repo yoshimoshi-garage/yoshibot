@@ -1,3 +1,3 @@
 # YoshiBot Open Source 6-DOF Robotic Arm
 
-[!doc/yoshibot1.png]()
+![preview](doc/Yoshibot1.png)
